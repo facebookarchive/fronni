@@ -1,0 +1,4 @@
+numba>=0.52.0
+numpy>=1.19.5
+scikit-learn>=0.20.0
+plotly>=5.1.0
