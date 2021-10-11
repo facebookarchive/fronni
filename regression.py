@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates.
 #!/usr/bin/env python3
 import math
 from sklearn.utils.multiclass import type_of_target
