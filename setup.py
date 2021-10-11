@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates.
 import setuptools
 
 with open("README.md", "r") as fh:
