@@ -2,7 +2,7 @@
 # fronni
 A Python library for quickly calculating & displaying machine learning model performance metrics with confidence intervals.
 
-# How fronni works?
+## How fronni works?
 
 https://medium.com/@kaushikm/fronni-a-python-library-for-quickly-calculating-machine-learning-model-performance-metrics-with-3baf28eaa5c0
 
